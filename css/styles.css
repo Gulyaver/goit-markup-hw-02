@@ -69,7 +69,7 @@ font-style: normal;
 .solution-title {
     font-weight: 700;
         font-size: 56px;
-        line-height: 1.07143;
+        line-height: 1.07;
         letter-spacing: 0.02em;
         text-align: center;
         color: #ffffff;
@@ -82,11 +82,16 @@ font-style: normal;
     letter-spacing: 0.04em;
     color: #fff;
     background-color: #4d5ae5;
+    cursor: pointer;
 }
 
 .solution-btn:hover,
 .solution-btn:focus {
     background-color: #404bbf;
+}
+
+.advantages {
+    text-transform: capitalize;
 }
 
 .advantages-title-txt {
