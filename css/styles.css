@@ -121,8 +121,17 @@ font-style: normal;
         color: #2e2f42;
 }
 
+.team-title {
+    background-color: #ffffff;
+}
+
 .team {
     background-color: #f4f4fd;
+    text-transform: capitalize;
+}
+
+.team-list {
+    text-transform: capitalize;
 }
 
 .team-hero,.team-txt {
@@ -148,7 +157,7 @@ font-style: normal;
 
 .portfolio-txt-title {
     background-color: #ffffff;
-    text-transform: capitalize
+    text-transform: capitalize;
 }
 
 .page-footer {
