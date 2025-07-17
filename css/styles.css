@@ -137,7 +137,6 @@ font-style: normal;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    text-transform: capitalize;
 }
 
 .team-txt, .portfolio-txt {
@@ -148,10 +147,15 @@ font-style: normal;
     color: #434455;
 }
 
+.portfolio {
+    text-transform: capitalize;
+    background-color: #ffffff;
+}
 
 .portfolio-txt-title {
     background-color: #ffffff;
 }
+
 
 .page-footer {
     background-color: #2e2f42;
