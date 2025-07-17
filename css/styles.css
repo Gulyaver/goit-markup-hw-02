@@ -110,7 +110,7 @@ font-style: normal;
 .team-title, .portfolio-title {
     font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
@@ -140,6 +140,13 @@ font-style: normal;
     color: #434455;
 }
 
+.portfolio-title {
+    text-transform: capitalize
+}
+
+.portfolio-list {
+    background-color: #ffffff;
+}
 
 .page-footer {
     background-color: #2e2f42;
