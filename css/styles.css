@@ -110,7 +110,10 @@ font-style: normal;
     color: #434455;
 }
 
-
+.team {
+    background-color: #f4f4fd;
+    text-transform: capitalize;
+}
 
 .team-title, .portfolio-title {
     font-weight: 700;
@@ -121,9 +124,8 @@ font-style: normal;
         color: #2e2f42;
 }
 
-.team {
-    background-color: #f4f4fd;
-    text-transform: capitalize;
+.team-list {
+    background-color: #ffffff;
 }
 
 
