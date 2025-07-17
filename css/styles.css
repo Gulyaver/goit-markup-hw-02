@@ -140,12 +140,10 @@ font-style: normal;
     color: #434455;
 }
 
-.portfolio-title {
-    text-transform: capitalize
-}
 
-.portfolio-list {
+.portfolio-txt-title {
     background-color: #ffffff;
+    text-transform: capitalize
 }
 
 .page-footer {
