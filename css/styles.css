@@ -90,6 +90,14 @@ font-style: normal;
     background-color: #404bbf;
 }
 
+
+
+
+
+
+
+
+
 .advantages {
     text-transform: capitalize;
 }
@@ -110,6 +118,14 @@ font-style: normal;
     color: #434455;
 }
 
+
+
+
+
+
+
+
+
 .team {
     background-color: #f4f4fd;
     text-transform: capitalize;
@@ -124,7 +140,7 @@ font-style: normal;
         color: #2e2f42;
 }
 
-.team-list {
+.team-list-item {
     background-color: #ffffff;
 }
 
@@ -149,6 +165,12 @@ font-style: normal;
     color: #434455;
 }
 
+
+
+
+
+
+
 .portfolio {
     text-transform: capitalize;
     background-color: #ffffff;
@@ -157,6 +179,13 @@ font-style: normal;
 .portfolio-txt-title {
     background-color: #ffffff;
 }
+
+
+
+
+
+
+
 
 
 .page-footer {
